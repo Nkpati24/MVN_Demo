@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T17:07:56 IST" name="Default suite" finished-at="2022-04-18T17:08:14 IST" duration-ms="18062">
+    <groups>
+    </groups>
+    <test started-at="2022-04-18T17:07:56 IST" name="Default test" finished-at="2022-04-18T17:08:14 IST" duration-ms="18062">
+      <class name="com.flikart.testscenairos.PlaceOrder">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:07:56 IST" name="setupDriver" finished-at="2022-04-18T17:08:02 IST" duration-ms="6428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="validateLoginTest()[pri:0, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:02 IST" name="validateLoginTest" finished-at="2022-04-18T17:08:11 IST" duration-ms="9329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method signature="validateSeachProductTest()[pri:1, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:11 IST" name="validateSeachProductTest" finished-at="2022-04-18T17:08:14 IST" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSeachProductTest -->
+        <test-method signature="validateSelectProductTest()[pri:2, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="validateSelectProductTest" finished-at="2022-04-18T17:08:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectProductTest -->
+        <test-method signature="validateAddToCartTest()[pri:3, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="validateAddToCartTest" finished-at="2022-04-18T17:08:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartTest -->
+        <test-method signature="validatePlaceOrderTest()[pri:4, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="validatePlaceOrderTest" finished-at="2022-04-18T17:08:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlaceOrderTest -->
+        <test-method signature="validateMakePayment()[pri:5, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="validateMakePayment" finished-at="2022-04-18T17:08:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMakePayment -->
+        <test-method signature="validateLogoutTest()[pri:6, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="validateLogoutTest" finished-at="2022-04-18T17:08:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flikart.testscenairos.PlaceOrder@fba92d3]" started-at="2022-04-18T17:08:14 IST" name="tearDown" finished-at="2022-04-18T17:08:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flikart.testscenairos.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
